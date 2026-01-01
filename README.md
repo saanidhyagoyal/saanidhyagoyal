@@ -53,7 +53,7 @@ I am a **Software Engineer** with professional experience in **FinTech** and **A
 <h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saanidhyagoyal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats graph" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=saanidhyagoyal&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saanidhyagoyal&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="streak graph" />
 </div>
 
