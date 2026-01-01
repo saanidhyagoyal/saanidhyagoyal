@@ -50,19 +50,20 @@ I am a **Software Engineer** with professional experience in **FinTech** and **A
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
+<!-- <h3 align="center">📈 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saanidhyagoyal&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saanidhyagoyal&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="streak graph" />
-</div>
-
-<br>
+  <img src="https://streak-stats.demolab.com?user=saanidhyagoyal&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanidhyagoyal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+</div> -->
+<h3 align="center">📈 GitHub Overview</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saanidhyagoyal/saanidhyagoyal/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Dev-blue?style=for-the-badge&logo=code" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Systems-success?style=for-the-badge&logo=server" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-important?style=for-the-badge" />
 </div>
-
 <br>
 
 <div align="center">
