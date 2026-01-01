@@ -20,7 +20,7 @@
 
 > 💡 **"Full-Stack Engineer bridging complex backends with clean user interfaces."**
 
-I am a **Software Engineer** with professional experience in **FinTech** and **Aerospace**. Currently driving impact as an Apprentice at **Standard Chartered**, formerly at **ISRO**.
+I am a **Software Engineer** with professional experience in **FinTech** and **Aerospace**. Currently driving impact as an Apprentice Technology at **Standard Chartered**, Summer-Interned at **ISRO**.
 
 ---
 
@@ -42,7 +42,7 @@ I am a **Software Engineer** with professional experience in **FinTech** and **A
       </td>
       <td>
         <ul>
-            <li><b>Full Stack Development:</b> Developing scalable Credit Card applications using <b>React</b> (Frontend) and <b>Spring Boot</b> (Backend).</li>
+            <li><b>Full Stack Development:</b> Developed scalable Credit Card applications using <b>React</b> (Frontend) and <b>Spring Boot</b> (Backend).</li>
             <li><b>Database Architecture:</b> Utilizing <b>PostgreSQL</b> for complex data persistence and management.</li>
             <li><b>Corporate Deployment:</b> Gained hands-on experience deploying modern web apps in a regulated banking environment.</li>
         </ul>
@@ -58,7 +58,7 @@ I am a **Software Engineer** with professional experience in **FinTech** and **A
         <ul>
             <li><b>Mission Critical Tools:</b> Built a time-delay monitoring system for <b>Chandrayaan-3</b> mission workflows.</li>
             <li><b>Strategic Analysis:</b> The tool is now employed in 3 critical projects to drive decision-making.</li>
-            <li><b>Collaboration:</b> Worked directly with the Mission Director to integrate the GUI into existing systems.</li>
+            <li><b>Collaboration:</b> Worked directly with the Mission Director of Chandrayan-3 to integrate the GUI into existing Workflows</li>
         </ul>
       </td>
     </tr>
