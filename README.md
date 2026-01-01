@@ -1,6 +1,3 @@
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sanidhya+Gupta;Software+Engineer+@Standard+Chartered;Ex-ISRO+Project+Trainee;Java+%26+Spring+Boot+Developer" alt="Typing SVG" />
-</div> -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Hi,+I'm+Sanidhya+Gupta;Software+Engineer+@+Standard+Chartered;Ex-ISRO+Project+Trainee;Java+%26+Spring+Boot+Developer" alt="Typing SVG" />
 </div>
@@ -49,24 +46,22 @@ I am a **Software Engineer** with professional experience in **FinTech** and **A
 | 🍔 **ChefKart WebApp** | 🛍️ **Vyparify E-Commerce** | 🔢 **Sorting Visualizer** |
 | :--- | :--- | :--- |
 | *MERN Stack Platform* | *Spring Boot Backend* | *Algorithm Tool* |
-| • Food ordering system with Chef booking.<br>• JWT Auth & REST APIs.<br>• [**View Code**](https://github.com/saanidhyagoyal/ChefKart) | • Scalable backend with Role-Based Access.<br>• MySQL & Spring Security.<br>• [**View Code**](https://github.com/saanidhyagoyal/Vyparify) | • Interactive sorting visualizer.<br>• Custom speed & data size controls.<br>• [**View Code**](https://github.com/saanidhyagoyal/SortingVisualizer) |
+| • Food ordering system.<br>• JWT Auth & REST APIs.<br>• [**View Code**](https://github.com/saanidhyagoyal/ChefKart) | • Scalable backend System.<br>• MySQL & Spring Security.<br>• [**View Code**](https://github.com/saanidhyagoyal/Vyparify) | • Interactive visualizer.<br>• Custom speed controls.<br>• [**View Code**](https://github.com/saanidhyagoyal/SortingVisualizer) |
 
 ---
 
 <h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saanidhyagoyal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saanidhyagoyal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats graph" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saanidhyagoyal&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="streak graph" />
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/saanidhyagoyal/saanidhyagoyal/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/saanidhyagoyal/saanidhyagoyal/output/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
-</div> -->
 
 <br>
 
