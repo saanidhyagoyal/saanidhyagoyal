@@ -70,3 +70,6 @@ I am a **Software Engineer** with a strong foundation in **Java, Spring Boot, an
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saanidhyagoyal&label=Profile%20Views&color=blue&style=flat" alt="views" />
 </div>
+<div align="center">
+  <img src="https://github.com/saanidhyagoyal/saanidhyagoyal/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
