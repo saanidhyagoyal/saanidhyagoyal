@@ -37,7 +37,7 @@ I am a **Software Engineer** with professional experience in **FinTech** and **A
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/Standard%20Chartered-009F3D?style=for-the-badge&logo=standardchartered&logoColor=white" /><br>
-        <i>Apprentice Tech Intern</i><br>
+        <i>Apprentice Technology</i><br>
         (July 2025 - Present)
       </td>
       <td>
