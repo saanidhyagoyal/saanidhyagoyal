@@ -58,10 +58,12 @@ I am a **Software Engineer** with professional experience in **FinTech** and **A
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saanidhyagoyal/saanidhyagoyal/output/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/saanidhyagoyal/saanidhyagoyal/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/saanidhyagoyal/saanidhyagoyal/output/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div> -->
 
 <br>
 
