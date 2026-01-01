@@ -62,7 +62,6 @@ I am a **Software Engineer** with professional experience in **FinTech** and **A
 <div align="center">
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Dev-blue?style=for-the-badge&logo=code" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Systems-success?style=for-the-badge&logo=server" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-important?style=for-the-badge" />
 </div>
 <br>
 
