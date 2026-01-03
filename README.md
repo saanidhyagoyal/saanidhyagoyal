@@ -191,20 +191,7 @@ I am a **Software Engineer** with professional experience in **FinTech** and **A
     </tr>
   </tbody>
 </table>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saanidhyagoyal&theme=flat&no-frame=true&column=7&margin-w=15" alt="trophies" />
-</div>
-<h3 align="center">📈 GitHub Analytics</h3>
 
-<div align="center">
-  <a href="https://github.com/saanidhyagoyal">
-    <img src="https://github-readme-stats.vercel.app/api?username=saanidhyagoyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  </a>
-  
-  <a href="https://github.com/saanidhyagoyal">
-    <img src="https://streak-stats.demolab.com?user=saanidhyagoyal&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
-  </a>
-</div>
 
 ---
 
